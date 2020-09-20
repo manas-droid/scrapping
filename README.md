@@ -1,1 +1,1 @@
-# scrapping A template for web scrapping 
+# A template for web scrapping 
